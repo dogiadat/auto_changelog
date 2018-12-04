@@ -29,6 +29,7 @@ All notable changes to this project will be documented in this file.
 - Login for user (#commit_id)
 - User homepage (#commit_id)
 - User profile (#commit_id)
+
 ### Changed
 - N/A
 ### Fixed
